@@ -1,2 +1,2 @@
 # Morse-Code-Tkinter
-THis is project is to be completed
+This project is to be completed
